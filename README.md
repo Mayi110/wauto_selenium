@@ -1,3 +1,7 @@
+# NOTICE:
+## This Repo is deprecated and not maintained anymore go to [WAUTO](https://github.com/ahmedloay/wauto)
+==================================================================
+
 # Wauto
 > send a message to a list of whatsapp numbers
 
